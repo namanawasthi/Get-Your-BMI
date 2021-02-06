@@ -12,4 +12,4 @@ App will look similiar to below design from Dribble.com
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
 
 ##
-Stay with us to see for more flutter apps
+Stay connected with us for more flutter apps!!
